@@ -9,7 +9,7 @@ namespace SearchAlgorithm
      class Program
     {
         int[] arr = new int[20];
-
+  
         static void Main(string[] args)
         {
         }
